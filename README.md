@@ -59,12 +59,10 @@ Pengguna yang dapat memakai sistem ini hanya User.
 <table width="100%">
   <tbody>
     <tr>
-      <br>
       <td width="33%">
         <h5 style="text-align: center">Login Form</h5>
         <img src="assets\img\Login Form.jpg"><br>
       </td>
-      </br>
       <td width="33%">
         <h5 style="text-align: center">Menu Konser</h5>
         <img src="assets\img\Menu konser.jpg">
