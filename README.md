@@ -97,5 +97,5 @@ Untuk menjalankan aplikasi ini disarankan untuk menyiapkan aplikasi berikut ini 
   - [x] Git <code>2.35.1</code>
 
 ## 📜 Credit & License
-Project ini dibuat untuk memenuhi nilai uas 
+Tujuan dibuatnya Project ini untuk memenuhi kebutuhan Nilai UAS mata kuliah Mobile Programming 
 <blockquote>Kuliah...? BSI AJA !!</blockquote>
