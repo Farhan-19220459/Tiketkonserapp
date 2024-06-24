@@ -56,40 +56,37 @@ Pengguna yang dapat memakai sistem ini hanya User.
 </ol>
 
 ## 🖼️ Screenshot Aplikasi
-<table width="100%">
-  <tbody>
-    <tr>
-      <td width="33%">
-        <h5 style="text-align: center">Login Form</h5>
-        <img src="assets\img\Login Form.jpg"><br>
-      </td>
-      <td width="33%">
-        <h5 style="text-align: center">Menu Konser</h5>
-        <img src="assets\img\Menu konser.jpg">
-      </td>
-      <td width="33%">
-        <h5 style="text-align: center">Memilih Kursi</h5>
-        <img src="assets\img\Pilih Kursi.jpg">
-      </td>
-      <td width="33%">
-        <h5 style="text-align: center">Metode Pembayaran</h5>
-        <img src="assets\img\Metode Pembayaran.jpg">
-      </td>
-      <td width="33%">
-        <h5 style="text-align: center">Transaksi Berhasil</h5>
-        <img src="assets\img\Transaksi Berhasil.jpg">
-      </td>
-      <td width="33%">
-        <h5 style="text-align: center">Riwayat Transaksi</h5>
-        <img src="assets\img\Riwayat Transaksi.jpg">
-      </td>
-      <td width="33%">
-        <h5 style="text-align: center">Profile</h5>
-        <img src="assets\img\Profile.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+### Login Form
+
+![Login Form](https://github.com/Farhan-19220459/Tiketkonserapp/assets/173593825/d6317491-fc9c-447d-ba83-583dd959c9c6)
+
+### Menu Konser
+
+![Menu konser](https://github.com/Farhan-19220459/Tiketkonserapp/assets/173593825/bb11aab9-f3b1-45e2-947b-415df1e97c26)
+
+### Pilih Kursi
+
+![Pilih Kursi](https://github.com/Farhan-19220459/Tiketkonserapp/assets/173593825/71dd4064-e249-4ca6-87e4-50a079fb5f3e)
+
+### Metode Pembayaran
+
+![Metode Pembayaran](https://github.com/Farhan-19220459/Tiketkonserapp/assets/173593825/2d487822-82ab-4a7e-9586-100ab68d0fdb)
+
+
+### Transaksi Berhasil
+
+![Transaksi Berhasil](https://github.com/Farhan-19220459/Tiketkonserapp/assets/173593825/f495f5f3-06d8-4130-a95b-7ed62fff029f)
+
+
+### Riwayat Transaksi
+
+![Riwayat Transaksi](https://github.com/Farhan-19220459/Tiketkonserapp/assets/173593825/4f384a24-d05b-4923-84b6-3acf6a02f571)
+
+### Profile
+
+![Profile](https://github.com/Farhan-19220459/Tiketkonserapp/assets/173593825/4e04aead-4f00-462f-bc37-08c8c68eb9d0)
+
 
 ## 📝 Prerequisite
 Untuk menjalankan aplikasi ini disarankan untuk menyiapkan aplikasi berikut ini :
