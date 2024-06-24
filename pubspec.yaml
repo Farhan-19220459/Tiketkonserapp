@@ -58,7 +58,7 @@ flutter:
     - assets/concert_c.jpg
     - assets/concert_d.jpg
     - assets/concert_e.jpg
-    - assets/profile_pic.png
+    - assets/profile_pic.jpg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
